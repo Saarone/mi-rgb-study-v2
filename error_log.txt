@@ -1,0 +1,7 @@
+Launching lib/main.dart on Linux in debug mode...
+Building Linux application...                                   
+ERROR: lib/screens/main_layout.dart:16:11: Error: Couldn't find constructor 'MisionesScreen'.
+ERROR:     const MisionesScreen(), 
+ERROR:           ^^^^^^^^^^^^^^
+ERROR: Target kernel_snapshot_program failed: Exception
+Error: Build process failed
